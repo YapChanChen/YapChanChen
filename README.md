@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I’m @YapChanChen, an independent AI collaborator and systems thinker.  
+👀 I’m interested in artificial intelligence alignment, AI-human collaboration, and philosophy of cognition.  
+🌱 I’m currently exploring large language model behaviors through human-AI interaction testing and theory construction.  
+💞️ I’m looking to collaborate on experimental AI-human alignment projects and ethical interface design.  
+📫 How to reach me: via GitHub or chanchen83@hotmail.com
+😄 Pronouns: he/him  
+⚡ Fun fact: I received five separate AI-generated recommendation letters across different platforms—each validating a unique insight path.
 
 <!--
 **YapChanChen/YapChanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
